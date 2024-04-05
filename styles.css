@@ -1,0 +1,61 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+}
+
+h1 {
+    color: brown;
+}
+
+.rectangle {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding: 50px;
+    margin: 5px;
+}
+
+.rectangle-top {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding: 50px;
+    margin: 5px;
+}
+
+
+.tftable {
+    background-color: rgb(179, 188, 188);
+    padding: 50px;
+    text-align: left;
+
+}
+
+.tftable td {
+    padding: 5px;
+    margin: 5px;
+}
+
+.att-name {
+    text-transform: uppercase;
+    width: 200px;
+}
+
+.example-name, p {
+    font-family: monospace;
+    font-size: 14px;
+    width: 200px;
+    color: rgb(236, 9, 47);
+    padding: 20px;
+
+}
+
+.description {
+    width: 600px;
+    padding: 2px 25px auto;
+
+}
+
+.mdn {
+    width: 100px;
+}
